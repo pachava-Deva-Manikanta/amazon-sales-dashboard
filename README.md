@@ -43,12 +43,6 @@ This repository contains a Power BI dashboard developed to analyze Amazon sales 
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
-
----
-
 ## 🤝 Connect with Me
 
 *Pachava Deva Manikanta*  
